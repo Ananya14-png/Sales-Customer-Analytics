@@ -41,8 +41,6 @@ Sales-Customer-Analytics/
 │   ├── Sales Overview.png
 │   └── README.md
 │
-├── python/
-│
 ├── sql/
 │   └── sales_customer_analysis.sql
 │
